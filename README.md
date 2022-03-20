@@ -1,2 +1,2 @@
-# AnkitKumar_ORMandSpringMVCAssignmentSolution
+#ruchaJani_ORMandSpringMVCAssignmentSolution
 CRUD Activity
